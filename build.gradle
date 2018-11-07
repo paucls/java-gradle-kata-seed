@@ -3,8 +3,8 @@ apply plugin: 'java'
 group = 'com.katas'
 version = '1.0.0'
 
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
+sourceCompatibility = 1.11
+targetCompatibility = 1.11
 
 apply plugin: 'eclipse'
 

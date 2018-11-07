@@ -8,10 +8,10 @@ public class GreeterTest {
     @Test
     public void should_say_hello() {
         // Arrange
-        Greeter greeter = new Greeter("John Doe");
+        var greeter = new Greeter("John Doe");
 
         // Act
-        String greeting = greeter.sayHello();
+        var greeting = greeter.sayHello();
 
         // Assert
         assertThat(greeting).isEqualTo("Hello, John Doe!");
