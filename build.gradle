@@ -1,6 +1,6 @@
 apply plugin: 'java'
 
-group = 'java-kata'
+group = 'com.katas'
 version = '1.0.0'
 
 sourceCompatibility = 1.8
