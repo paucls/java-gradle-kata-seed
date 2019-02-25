@@ -4,3 +4,8 @@
 .idea
 *.iml
 *.log
+
+.classpath
+.project
+.settings/
+bin/
