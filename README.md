@@ -14,7 +14,7 @@ You can clone this project using Git
 ```
 git clone https://github.com/paucls/java-gradle-kata-seed.git
 ```
-or just download it directly from https://github.com/paucls/java-gradle-kata-seed/archive/master.zip
+or just download it directly from https://github.com/paucls/java-gradle-kata-seed/archive/master.zip and unzip it.
 
 ## Run unit tests
 The most convenient way of running the unit tests is directly from your IDE. They can also be run from the console using Gradle.
@@ -23,3 +23,11 @@ The most convenient way of running the unit tests is directly from your IDE. The
 gradlew.bat test  // on Windows
 ./gradlew test    // on Linux
 ```
+
+## Import Project
+### Eclipse
+To import this project in Eclipse follow these steps:
+- Go to File -> Import -> Gradle -> Existing Gradle Project
+- Select the project folder `java-gradle-kata-seed`
+- Default Import Options, this will use the Gradle wrapper.
+
