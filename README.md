@@ -1,7 +1,7 @@
 Java Kata Seed
 ==============
 
-This is a seed project for doing TDD code katas in Java.
+This is a seed project to quickly start practicing TDD in Java.
 
 Includes dependencies for:
 - [AssertJ](http://joel-costigliola.github.io/assertj/)
