@@ -13,6 +13,9 @@ repositories {
 }
 
 dependencies {
+    compile(
+            'org.apache.commons:commons-lang3:3.0'
+    )
     testCompile(
             'junit:junit:4.12',
             'org.assertj:assertj-core:3.11.1',
