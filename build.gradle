@@ -20,7 +20,7 @@ dependencies {
             'junit:junit:4.13.2',
             'org.assertj:assertj-core:3.21.0',
             'org.hamcrest:hamcrest-all:1.3',
-            'org.mockito:mockito-core:2.23.0',
+            'org.mockito:mockito-core:4.0.0',
             'pl.pragmatists:JUnitParams:1.1.1'
     )
 }
